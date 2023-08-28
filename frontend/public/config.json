@@ -1,4 +1,4 @@
 {
-  "defaultServerURLs": ["jellyfin.xmon.eu.org"],
+  "defaultServerURLs": ["https://jellyfin.xmon.eu.org"],
   "routerMode": "hash"
 }
